@@ -75,7 +75,7 @@ class Quiz {
        return average;
 
     }
-    
+
     }
 
     
